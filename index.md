@@ -3,15 +3,16 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Write down your full name here**
+Surname(s) / First name(s): Riddhi Shah
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): shahr55@mcmaster.ca
 
-Date of birth: Write your date of birth here
+Date of birth: 21st march 2003
 
 ### About Me
 
 Write a few sentences describing you the best.
+Once I start learning something , I can't stop.
 
 
 
@@ -19,12 +20,8 @@ Write a few sentences describing you the best.
 ### List of hobbies:
 
 * Coding
-  * Elm
-  * Haskell
-    * Stack
-    * ghc
-* Biking
-* Hiking
+* reading
+* volleyball
 ```
 
 ### Find me here
@@ -32,7 +29,7 @@ Write a few sentences describing you the best.
 <table>
     <tr>
         <td>
-            <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
+            <a href="https://github.com/reveng-e" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
             <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
